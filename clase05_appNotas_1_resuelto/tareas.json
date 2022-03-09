@@ -1,0 +1,18 @@
+[
+    {
+        "titulo": "Estudiar JS",
+        "estado": "En proceso"
+    },
+    {
+        "titulo": "Estudiar Phyton",
+        "estado": "En proceso"
+    },
+    {
+        "titulo": "Salir a caminar",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Ir a hacer la compra",
+        "estado": "Pendiente"
+    }
+]
